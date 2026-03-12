@@ -11,11 +11,11 @@ format:
         toc-depth: 3
         page-layout: article
         embed-resources: true
-        format-links: false 
+        format-links: false
         other-links:
           - text: PDF Report
             icon: file-pdf
-            href: qmd_example.pdf 
+            href: index.pdf
     pdf: 
         toc: true
         toc-depth: 3
